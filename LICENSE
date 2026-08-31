@@ -1,0 +1,75 @@
+END USER LICENSE AGREEMENT (EULA) FOR INSAVEY
+
+Copyright (c) 2026 Aditya Dwi Nugraha - Nyxel Software Developer. All Rights Reserved.
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING, DOWNLOADING, OR INSTALLING THE SOFTWARE. BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+1. DEFINITIONS
+"Software" refers to the InSavey application, including source code, object code, documentation, in-app purchases, and any updates or modifications provided by the Licensor.
+"Licensor" refers to Aditya Dwi Nugraha, operating as Nyxel Software Developer.
+"Licensee" refers to the individual using the Software downloaded from the Google Play Store.
+"Premium Features" refers to optional, paid elements within the Software (including but not limited to Lifetime VIP, Remove Ads passes, and subscriptions) purchased via the Google Play Billing System.
+"Google Play" refers to the digital distribution platform operated by Google LLC.
+"Third-Party Services" refers to integrated services provided by third parties, including Google Play Services, Google AdMob, Google Analytics for Firebase, and Firebase Crashlytics.
+
+2. OWNERSHIP AND INTELLECTUAL PROPERTY
+The Software is licensed, not sold. All title, ownership rights, and intellectual property rights in and to the Software (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the Software) are owned by the Licensor. This Software is protected by copyright laws and international treaty provisions.
+
+3. LICENSE GRANT
+Subject to your compliance with the terms of this Agreement and the payment of any applicable fees via Google Play, Licensor grants Licensee a non-exclusive, non-transferable, revocable, personal, and limited right to install and use the Software on Android devices owned or controlled by the Licensee, solely for personal, non-commercial use.
+
+4. IN-APP PURCHASES, SUBSCRIPTIONS, AND FEES
+Licensee may purchase Premium Features within the Software.
+(a) All financial transactions, payments, and billing are handled exclusively and securely by the Google Play Billing System. Licensor does not collect or store any credit card or financial data.
+(b) Subscriptions purchased within the app will automatically renew at the end of each billing cycle unless cancelled by the Licensee through their Google Play Account settings prior to the renewal date.
+(c) Refunds are subject to the Google Play Refund Policy. Any refund request must be submitted directly through the Google Play Store.
+
+5. ADVERTISEMENTS AND THIRD-PARTY SERVICES (ADMOB)
+The free version of the Software displays advertisements and integrates analytics tools provided by Third-Party Services, specifically Google AdMob, Google Play Services, Google Analytics for Firebase, and Firebase Crashlytics.
+(a) Licensee acknowledges and agrees that Google AdMob may collect and use certain device identifiers, cookies, or anonymous tracking data to serve personalized or non-personalized advertisements, as described in the InSavey Privacy Policy and Google's Privacy Policy.
+(b) For users residing in the European Economic Area (EEA), the United Kingdom, and Switzerland, a certified Consent Management Platform (CMP) dialog will be presented to allow the Licensee to manage their advertisement personalization and privacy preferences.
+(c) Purchasing Premium Features (such as the "Remove Ads" pass or VIP Access) will permanently or temporarily disable the serving of advertisements within the Software, depending on the terms of the purchased tier.
+
+6. LICENSE VERIFICATION
+Licensor reserves the right to programmatically verify Licensee's purchase status and license validity via the Google Play Billing API. If a payment is reversed, refunded, or chargebacked through Google Play, the associated Premium Features will be automatically terminated.
+
+7. RESTRICTIONS
+Licensee shall not, and shall not permit any third party to:
+(a) Reverse engineer, decompile, or disassemble the Software.
+(b) Modify, adapt, or create derivative works based upon the Software without express written consent.
+(c) Rent, lease, lend, sell, or sublicense the Software to any third party.
+(d) Remove or obscure any copyright, trademark, or proprietary notices.
+(e) Use the Software in any way that violates applicable laws or regulations, including violating the privacy or intellectual property rights of others on third-party social media platforms.
+
+8. CONFIDENTIALITY
+Licensee acknowledges that the source code of the Software and any proprietary algorithms used therein are confidential and proprietary information of the Licensor. Licensee agrees to maintain the confidentiality of this information.
+
+9. TERMINATION
+This License is effective until terminated.
+(a) Licensee may terminate the License at any time by uninstalling the Software and destroying all copies.
+(b) Licensor may terminate this License immediately without notice if Licensee fails to comply with any term of this Agreement.
+(c) Upon termination, Licensee must cease all use of the Software and delete all copies of the Software from their devices.
+
+10. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND "WITH ALL FAULTS." LICENSOR MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED.
+
+11. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+12. INDEMNIFICATION
+Licensee agrees to indemnify, defend, and hold harmless the Licensor from and against any claims, losses, liabilities, and expenses (including attorney's fees) arising out of Licensee's use of the Software, its compliance with third-party platform terms, or breach of this Agreement.
+
+13. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Indonesia. Any legal action or proceeding arising under this Agreement will be brought exclusively in the courts of Sidoarjo, Indonesia, and the parties hereby consent to the personal jurisdiction and venue therein.
+
+14. SEVERABILITY
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+15. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous oral or written understandings.
+
+16. CONTACT INFORMATION
+For licensing inquiries, permissions, or support, please contact:
+Aditya Dwi Nugraha - Nyxel Software Developer
+Email: nyxel.developer@gmail.com
+Website: https://nyxel-software-dev.pages.dev/
