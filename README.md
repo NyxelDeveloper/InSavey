@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://nyxel-software-dev.pages.dev/assets/apps/com.nyxel.insavey/icon.png" width="160" height="160"/><br/>
+<img src="https://nyxel-software.dev/assets/apps/com.nyxel.insavey/icon.png" width="160" height="160"/><br/>
 
 # InSavey - Ultimate Instagram Private Downloader
 
 **InSavey is the ultimate Instagram private saver and downloader for Android. Save reels, stories, photos, and videos directly to your gallery in original quality.**
 
-[Official Website](https://nyxel-software-dev.pages.dev/apps/com.nyxel.insavey/) | [Privacy Policy](privacy-policy.md)
+[Official Website](https://nyxel-software.dev/apps/com.nyxel.insavey/) | [Privacy Policy](privacy-policy.md)
 
 </div>
 
@@ -18,8 +18,9 @@ Get the latest version of InSavey from the official sources:
 
 *   **Google Play Store:** [Get it on Google Play](https://play.google.com/store/apps/details?id=com.nyxel.insavey)
 *   **GitHub Releases:** [Download Latest APK](https://github.com/NyxelDeveloper/InSavey/releases/latest)
-*   **APKPure:** [Download on APKPure](https://apkpure.com/insavey-private-saver/com.nyxel.insavey)
-*   **Oppo App Market:** Available on the official Oppo App Store.
+*   **APKPure:** [Download on APKPure](https://apkpure.com/p/com.nyxel.insavey)
+*   **Uptodown** [Download on Uptodown](https://insavey-private-saver.en.uptodown.com/android)
+*   **OPPO App Market:** Available on the official Oppo App Store.
 
 ---
 
