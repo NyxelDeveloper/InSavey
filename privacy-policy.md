@@ -1,7 +1,7 @@
 Last Updated: August 17, 2026
 
-This privacy policy applies to the **InSavey** app (herein referred to as "Application") created
-by **Nyxel Software Developer** as a Free service with optional Premium features. This service is
+This privacy policy applies to the **InSavey** app (herein referred to as "Application") created by
+**Nyxel Software Developer** as a Free service with optional Premium features. This service is
 intended for use "AS IS".
 
 ## 1. Information Collection and Use
